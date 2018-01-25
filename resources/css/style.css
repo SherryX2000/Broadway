@@ -1,0 +1,9 @@
+*{
+  text-align: center;
+  font-family: Helvetica;
+  /*color: white;*/
+}
+
+.menuHeading h1{
+  background-image:url(../the-flatiron-building.png);
+}
